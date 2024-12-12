@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jakubicek15
 - 👀 I’m interested in developing FiveM servers and scripts
 - 🌱 I’m currently learning scripting FiveM scripts
-- 💞️ I’m looking to collaborate on Lunar Scripts
+- 💞️ I’m looking to work on some FiveM servers like DEV
 - 📫 How to reach me: Discord: jakubicek_15
 - 😄 Pronouns: Jakub
 - ⚡ Fun fact: Developer
