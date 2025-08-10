@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work on some FiveM servers like DEV
 - 📫 How to reach me: Discord: jakubicek_15
 - 😄 Pronouns: Jakub
-- ⚡ Fun fact: Developer
+- ⚡ Fun fact: Gamer
 
 <!---
 Jakubicek15/Jakubicek15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
